@@ -1,11 +1,13 @@
 # Google Keep Clone with Functionality
 
-![Google Keep Clone Screenshot](https://github.com/Gaya3Ramesh/Google-Keep/assets/89316721/3dd3e655-200b-4ff3-9d82-c295c341cf35)
-![Google Keep Clone Screenshot](https://github.com/Gaya3Ramesh/Google-Keep/assets/89316721/cfed2b5d-66cd-4712-b3a8-c19db62bd591)
-
 ## Description
 
 This project is a clone of Google Keep, a note-taking app, with added functionality built using React. It allows users to create, edit, and delete notes. The project demonstrates my skills in React development and UI/UX design.
+
+# ScreenShot
+
+![Google Keep Clone Screenshot](https://github.com/Gaya3Ramesh/Google-Keep/assets/89316721/3dd3e655-200b-4ff3-9d82-c295c341cf35)
+![Google Keep Clone Screenshot](https://github.com/Gaya3Ramesh/Google-Keep/assets/89316721/cfed2b5d-66cd-4712-b3a8-c19db62bd591)
 
 ## Live Demo
 

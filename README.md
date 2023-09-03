@@ -1,7 +1,7 @@
 # Google Keep Clone with Functionality
 
-![Google Keep Clone Screenshot](https://github.com/Gaya3Ramesh/Google-Keep-Website/assets/89316721/eab7eed0-cb50-49dc-a57c-ee6a96332df2)
-![Google Keep Clone Screenshot](https://github.com/Gaya3Ramesh/Google-Keep-Website/assets/89316721/16920b0b-be4b-4748-aedd-241335fba351)
+![Google Keep Clone Screenshot](https://github.com/Gaya3Ramesh/Google-Keep/assets/89316721/3dd3e655-200b-4ff3-9d82-c295c341cf35)
+![Google Keep Clone Screenshot](https://github.com/Gaya3Ramesh/Google-Keep/assets/89316721/cfed2b5d-66cd-4712-b3a8-c19db62bd591)
 
 ## Description
 

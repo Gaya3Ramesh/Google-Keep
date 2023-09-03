@@ -9,10 +9,6 @@ This project is a clone of Google Keep, a note-taking app, with added functional
 ![Google Keep Clone Screenshot](https://github.com/Gaya3Ramesh/Google-Keep/assets/89316721/3dd3e655-200b-4ff3-9d82-c295c341cf35)
 ![Google Keep Clone Screenshot](https://github.com/Gaya3Ramesh/Google-Keep/assets/89316721/cfed2b5d-66cd-4712-b3a8-c19db62bd591)
 
-## Live Demo
-
-You can view the live demo of the project [Google Keep](https://your-live-demo-link.com).
-
 ## Features
 
 - Create new notes with titles and content.
